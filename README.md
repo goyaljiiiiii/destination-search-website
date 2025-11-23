@@ -1,7 +1,6 @@
 # Destination Search Website 🌍
 
 A clean and responsive destination search website designed with HTML and CSS. This project showcases destinations with animations and a user-friendly interface.
-   git clone https://github.com/your-username/destination-search-website.git
 
 ## Features ✨
 
@@ -18,9 +17,3 @@ A clean and responsive destination search website designed with HTML and CSS. Th
 - **CSS3**
 - **Font Awesome Icons**
 - **Google Fonts**
-
-## How to Run Locally 💻
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/destination-search-website.git
