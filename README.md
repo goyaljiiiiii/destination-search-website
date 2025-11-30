@@ -18,3 +18,5 @@ This project showcases destinations with animations and a user-friendly interfac
 - **CSS3**
 - **Font Awesome Icons**
 - **Google Fonts**
+
+---
