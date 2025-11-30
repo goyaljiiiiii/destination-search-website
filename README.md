@@ -1,6 +1,7 @@
 # Destination Search Website 🌍
 
-A clean and responsive destination search website designed with HTML and CSS. This project showcases destinations with animations and a user-friendly interface.
+A clean and responsive destination search website designed with HTML and CSS. 
+This project showcases destinations with animations and a user-friendly interface.
 
 ## Features ✨
 
